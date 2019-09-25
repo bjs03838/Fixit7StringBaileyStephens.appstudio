@@ -7,7 +7,7 @@ console.log(`Upper case string is: ${upperCaseString}`)
 
 //Create a new variable named authorString and put this text in it. 
 
-var authorString = "I don't know what text to put here"
+var authorString = "- Henry Ford"
 
 //Then use a string method to put the authorString value on the end of the quoteString value, saving the new string in a variable named completeString. 
 
